@@ -1,0 +1,6 @@
+Flask
+gunicorn
+Werkzeug
+itsdangerous
+MarkupSafe
+Jinja2
